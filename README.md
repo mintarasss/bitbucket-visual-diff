@@ -50,7 +50,7 @@ Drag to compare before and after side by side in a single view.
 
 ### From Chrome Web Store
 
-Coming soon.
+Install directly from the [Chrome Web Store](https://chromewebstore.google.com/detail/bitbucket-image-diff-heat/glkhomlibchboimhmgmacjghcfhapjfg).
 
 ## How It Works
 
